@@ -1,0 +1,1 @@
+This script is intended to be used to solve 2nd degree equations.
