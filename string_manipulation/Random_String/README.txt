@@ -1,0 +1,1 @@
+This script is intended to be used to generate a random string with a certain number of letters.
