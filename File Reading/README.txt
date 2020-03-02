@@ -1,0 +1,1 @@
+This script is intended to be used to read a file's content and return it as a string.
